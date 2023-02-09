@@ -2,7 +2,7 @@ const Section1 = () => {
 	return (
 		<div className='pb-10'>
 			<div className='text-3xl text-greenColor pb-4'  style={{ fontFamily: 'Audiowide'}}>
-				Why Sponsor Us for next vehicle
+				Why Sponsor Us 
 			</div>
 			<div className='text-xl pb-2'>
 				Team eSJEC Racing is a quirky opportunity for students to get hands on
