@@ -624,7 +624,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Juvence',
+      name:'Juvence ',
       imagePath:'./images/team/beetle4.0/Juvence.JPG',
       designation:'',
       specialStyle: '',
