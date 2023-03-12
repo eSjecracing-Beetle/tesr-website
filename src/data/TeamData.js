@@ -604,7 +604,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Vinit',
+      name:'Vinith',
       imagePath:'./images/team/beetle4.0/vinit.jpg',
       designation:'',
       specialStyle: '',

@@ -1,5 +1,6 @@
 import Achievement2Image from '../images/achievements-2.jpg';
 import atvc from '../images/atvc.jpg';
+import goa from '../images/goa.jpg';
 export const achievements = [
 	{
 		date:2023,
@@ -23,7 +24,7 @@ export const achievements = [
 	},
 	{
 		title: 'MegaATV - Goa',
-		image: '',
+		image: goa,
 		description: [
 			'Endurance AIR 1',
 			'Flat dirt race AIR 1',
