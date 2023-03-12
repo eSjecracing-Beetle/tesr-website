@@ -694,7 +694,7 @@ let Beetle4 = {
     {
       name:'Ramyashree K T',
       imagePath:'',
-      designation:'./images/team/beetle4.0/akshay Nair.jpg',
+      designation:'./images/team/beetle4.0/ramyashree.jpg',
       specialStyle: '',
     },
     {
