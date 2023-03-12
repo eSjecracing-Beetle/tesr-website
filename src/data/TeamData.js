@@ -561,7 +561,7 @@ let Beetle4 = {
     },
     {
       name:'Kiran',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/kiran.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -604,8 +604,8 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Vinith',
-      imagePath:'',
+      name:'Vinit',
+      imagePath:'./images/team/beetle4.0/vinit.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -651,7 +651,7 @@ let Beetle4 = {
     },
     {
       name:'Deepansh Arekere',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/deepansh.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -663,7 +663,7 @@ let Beetle4 = {
     },
     {
       name:'Natasha Correia',
-      imagePath:'./images/team/beetle3.0/natasha.png',
+      imagePath:'./images/team/beetle4.0/natasha.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -675,13 +675,13 @@ let Beetle4 = {
     },
     {
       name:'Prathik',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/Prathik.jpg',
       designation:'',
       specialStyle: '',
     },
     {
       name:'Abishek V',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/abinew.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -699,7 +699,7 @@ let Beetle4 = {
     },
     {
       name:'Dayal',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/dayal.jpg',
       designation:'',
       specialStyle: '',
     },
