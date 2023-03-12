@@ -1,6 +1,7 @@
 import Achievement2Image from '../images/achievements-2.jpg';
 import atvc from '../images/atvc.jpg';
 import goa from '../images/goa.jpg';
+import indore from '../images/indore.jpg';
 export const achievements = [
 	{
 		date:2023,
@@ -18,7 +19,7 @@ export const achievements = [
 	{
 		date: 2022,
 		title: 'SAE BAJA - Indore',
-		image: Achievement2Image,
+		image: indore,
 		description: ['Acceleration AIR 4', 'Overall Ranking AIR 8'],
 		sides: 'right',
 	},
