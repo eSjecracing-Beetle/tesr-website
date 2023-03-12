@@ -543,7 +543,7 @@ let Beetle4 = {
     {
       name:'Russel Dsouza',
       imagePath: './images/team/beetle3.0/WhatsApp Image 2021-09-15 at 6.31.10 PM.jpeg',
-      designation: 'VICE CAPTAIN, HOD Rollcage',
+      designation: 'VICE CAPTAIN, HOD',
       specialStyle: '',
 
     },
