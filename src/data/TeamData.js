@@ -632,13 +632,13 @@ let Beetle4 = {
   ],
   'Powertrain & Data Acquisition':[
     {
-      name:'Neril',
+      name:'Neril Dsouza',
       imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-08-20 at 16.30.53.jpeg',
       designation:'HOD Mechanical Powertrain',
       specialStyle: '',
     },
     {
-      name:'Preetham',
+      name:'Preetham Dsouza',
       imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 8.40.41 PM.jpeg',
       designation:'',
       specialStyle: '',
