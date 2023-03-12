@@ -26,9 +26,13 @@ import img25 from '../images/gallery/25.JPG';
 import img26 from '../images/gallery/26.JPG';
 import img27 from '../images/gallery/27.JPG';
 import img28 from '../images/gallery/28.JPG';
+import ee93 from '../images/gallery/ee93.jpg';
+import e35 from '../images/gallery/e35.jpg';
 
 
 export const gallery_exports = [
+	ee93,
+	e35,
 	img25,
 	img28,
 	img26,
