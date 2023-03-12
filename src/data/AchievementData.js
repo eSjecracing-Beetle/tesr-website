@@ -1,10 +1,10 @@
 import Achievement2Image from '../images/achievements-2.jpg';
-
+import atvc from '../images/atvc.jpg';
 export const achievements = [
 	{
 		date:2023,
 		title:'ATVC - Pune',
-		image:'src/images/atvc.jpg',
+		image: atvc,
 		description:[
 			'Acceleration AIR 1',
 			'Endurance AIR 1',
