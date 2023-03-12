@@ -6,8 +6,8 @@ const Section2 = () => {
 			<div className='md:w-3/4 sm:w-1/2'>
 				<div className='md:text-5xl text-4xl pb-8'  style={{ fontFamily: 'Audiowide'}}>About Us</div>
 				<div className='text-gray-200 text-lg'>
-				Team eSJEC Racing as we are called is a group of 27 students from St. Joseph Engineering College
-				who formed in March 2019 under the SAEINDIA SJEC Collegiate Club.The team comprises students from the departments 
+				Team eSJEC Racing is a group of 27 students from St. Joseph Engineering College which was
+				formed in March 2019 under the SAEINDIA SJEC Collegiate Club.The team comprises students from the departments 
 				of Mechanical Engineering, Electrical & Electronics Engineering,Electronics & Communications Engineering, and 
 				Computer Science Engineering.We participate in student-level competitions where teams from across India compete
 				against each other in designing an off-road,all-terrain single-seater vehicle. We are passionate about pushing 
