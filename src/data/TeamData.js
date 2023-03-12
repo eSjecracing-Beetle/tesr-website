@@ -687,7 +687,7 @@ let Beetle4 = {
     },
     {
       name:'Shashank Devadiga',
-      imagePath:'',
+      imagePath:'./images/team/beetle4.0/shashank.jpg',
       designation:'',
       specialStyle: '',
     },
