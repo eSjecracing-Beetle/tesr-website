@@ -22,8 +22,17 @@ import img21 from '../images/gallery/21.jpg';
 import img22 from '../images/gallery/22.jpg';
 import img23 from '../images/gallery/23.jpg';
 import img24 from '../images/gallery/24.jpg';
+import img25 from '../images/gallery/25.JPG';
+import img26 from '../images/gallery/26.JPG';
+import img27 from '../images/gallery/27.JPG';
+import img28 from '../images/gallery/28.JPG';
+
 
 export const gallery_exports = [
+	img25,
+	img28,
+	img26,
+    img27,
 	img1,
 	img2,
 	img3,
