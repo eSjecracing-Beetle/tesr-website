@@ -15,8 +15,8 @@ const Section1 = () => {
 				We will be manufacturing a fully electric all terrain vehicle which will
 				be competing with other teams all over India in the month of March. It's
 				one of the biggest event for all the engineering students. The overall
-				budget for building our dream vehicle is estimated to be 12 lakh rupees
-				. With your help we expect to extend our success and finish among the
+				budget for building our dream vehicle is estimated to be 12 lakh rupees.
+				With your help we expect to extend our success and finish among the
 				top teams in every competitions we attend in the coming year.
 			</div>
 		</div>
