@@ -28,7 +28,6 @@ import img27 from '../images/gallery/27.JPG';
 import img28 from '../images/gallery/28.JPG';
 import ee93 from '../images/gallery/ee93.jpg';
 import e35 from '../images/gallery/e35.JPG';
-import ee93 from '../images/gallery/ee93.jpg';
 import ee35 from '../images/gallery/ee35.jpg';
 
 
