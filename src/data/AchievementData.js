@@ -2,7 +2,20 @@ import Achievement2Image from '../images/achievements-2.jpg';
 
 export const achievements = [
 	{
-		date: 2021,
+		date:2023,
+		title:'ATVC - Pune',
+		image:'',
+		description:[
+			'Acceleration AIR 1',
+			'Endurance AIR 1',
+			'Overall Helping hand ',
+			'Overall Champions AIR 1',
+		],
+		sides:'left',
+	}
+	
+	{
+		date: 2022,
 		title: 'SAE BAJA - Indore',
 		image: Achievement2Image,
 		description: ['Acceleration AIR 4', 'Overall Ranking AIR 8'],
@@ -10,6 +23,7 @@ export const achievements = [
 	},
 	{
 		title: 'MegaATV - Goa',
+		image: '',
 		description: [
 			'Endurance AIR 1',
 			'Flat dirt race AIR 1',

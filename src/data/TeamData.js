@@ -538,6 +538,137 @@ let Beetle4 = {
   // Suspension: [],
   // Braking: [],
   // Powertrain: [],
+  Rollcage: [
+    {
+      name:'Russel Dsouza',
+      imagePath:'',
+      designation: 'VICE CAPTAIN, HOD Rollcage',
+
+    },
+    {
+      name:'Abrar M H',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Rimesha Dsilva',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Kiran',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Vaibhava K',
+      imagePath:'',
+      designation:'',
+    },
+  ],
+  'Suspension & Steering':[
+    {
+      name:'Ken Noronha',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Mohammed Sahal',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Mukthar',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Merlyn Gudinho',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Humail',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Vinith',
+      imagePath:'',
+      designation:'',
+    },
+  ],
+  'Braking':[
+    {
+      name:'Natraj S',
+      imagePath:'',
+      designation:'HOD',
+    },
+    {
+      name:'Supritha Kotegar',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Juvence',
+      imagePath:'',
+      designation:'',
+    },
+  ],
+  'Powertrain & Data Acquisition':[
+    {
+      name:'Neril',
+      imagePath:'',
+      designation:'HOD Mechanical Powertrain',
+    },
+    {
+      name:'Preetham',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Shravan M',
+      imagePath:'',
+      designation:'HOD Electrical Powertrain',
+    },
+    {
+      name:'Deepansh Arekere',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Nikhil vernon',
+      imagePath:'',
+      designation:'HOD Data Acquisition',
+    },
+    {
+      name:'Natasha Correia',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Abishek V',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Shashank Devadiga',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Ramyashree K T',
+      imagePath:'',
+      designation:'',
+    },
+    {
+      name:'Dayal',
+      imagePath:'',
+      designation:'',
+    },
+  ],
 };
+
+
 
 export { Beetle1, Beetle2, Beetle3, Beetle4 };

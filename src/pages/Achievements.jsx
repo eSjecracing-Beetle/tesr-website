@@ -13,8 +13,8 @@ const Achievements = () => {
 						Achievements of Team eSJEC Racing
 					</p>
 					<p className='text-sm md:text-base mb-8'>
-						We have been a part of many competitions and have won many awards.
-						Here are some of our achievements.
+					As a team, we've achieved a great deal through our involvement in a wide range of competitions.
+					Here are some of our proud moments!
 					</p>
 				</div>
 
