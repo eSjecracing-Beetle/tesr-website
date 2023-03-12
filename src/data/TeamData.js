@@ -598,13 +598,13 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Sheikh Mohammed Humail',
+      name:'Mohammed Humail',
       imagePath:'./images/team/beetle4.0/Humail.png',
       designation:'',
       specialStyle: '',
     },
     {
-      name:'Vinith',
+      name:' Vinith',
       imagePath:'./images/team/beetle4.0/vinit.jpg',
       designation:'',
       specialStyle: '',
