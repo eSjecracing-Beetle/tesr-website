@@ -31,12 +31,12 @@ import e35 from '../images/gallery/e35.JPG';
 
 
 export const gallery_exports = [
-	ee93,
-	e35,
 	img25,
 	img28,
 	img26,
     img27,
+	e35,
+	ee93,
 	img1,
 	img2,
 	img3,
