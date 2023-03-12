@@ -10,9 +10,9 @@ const Section3 = () => {
 				</div>
 				<div className='text-gray-200 text-lg'>
 				BAJA SAE INDIA is an international student-level competition that challenges teams to design and build a rugged,
-				single-seat atv. The goal for each team  is to create a prototype that can pass
-				various tests that also includes an endurance race. As part of the SAE INDIA , we accepted this challenge and
-				decided to build an Electric All-Terrain Vehicle by intergrating all the individual skills and knowlege into work.
+				single-seat atv. The goal for each team  is to create a prototype that can pass various tests that also includes
+				an endurance race. As part of the SAE INDIA , we accepted this challenge and decided to build an 
+				Electric All-Terrain Vehicle by intergrating all the individual skills and knowlege into work.
 				</div>
 			</div>
 		</div>
