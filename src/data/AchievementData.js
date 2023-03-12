@@ -4,7 +4,7 @@ export const achievements = [
 	{
 		date:2023,
 		title:'ATVC - Pune',
-		image:'',
+		image:'src/images/atvc.jpg',
 		description:[
 			'Acceleration AIR 1',
 			'Endurance AIR 1',
