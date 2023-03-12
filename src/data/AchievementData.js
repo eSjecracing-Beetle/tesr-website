@@ -12,7 +12,7 @@ export const achievements = [
 			'Overall Champions AIR 1',
 		],
 		sides:'left',
-	}
+	},
 	
 	{
 		date: 2022,
