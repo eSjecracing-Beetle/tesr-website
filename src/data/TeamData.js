@@ -586,7 +586,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Mohammed Mukthar',
+      name:'Muhammad Mukthar',
       imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-08-21 at 08.16.57.jpeg',
       designation:'',
       specialStyle: '',
@@ -598,7 +598,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Humail',
+      name:'Sheikh Mohammed Humail',
       imagePath:'./images/team/beetle4.0/Humail.png',
       designation:'',
       specialStyle: '',
@@ -624,7 +624,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Juvence ',
+      name:'Juvence Lobo ',
       imagePath:'./images/team/beetle4.0/Juvence.JPG',
       designation:'',
       specialStyle: '',
@@ -656,7 +656,7 @@ let Beetle4 = {
       specialStyle: '',
     },
     {
-      name:'Nikhil vernon',
+      name:'Nikhil Vernon',
       imagePath:'./images/team/beetle4.0/nihkil vernon.jpg',
       designation:'HOD Data Acquisition',
       specialStyle: '',
