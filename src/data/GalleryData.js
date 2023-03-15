@@ -28,6 +28,10 @@ import img27 from '../images/gallery/27.JPG';
 import img28 from '../images/gallery/28.JPG';
 import ee93 from '../images/gallery/ee93.jpg';
 import ee35 from '../images/gallery/ee35.jpg';
+import img30 from '../images/gallery/img30.jpg';
+import img31 from '../images/gallery/img31.jpg';
+import img32 from '../images/gallery/img32.jpg';
+import img33 from '../images/gallery/img33.jpg';
 
 
 export const gallery_exports = [
@@ -35,6 +39,10 @@ export const gallery_exports = [
 	img28,
 	img26,
     img27,
+	img30,
+	img31,
+	img32,
+	img33,
 	ee35,
 	ee93,
 	img1,
