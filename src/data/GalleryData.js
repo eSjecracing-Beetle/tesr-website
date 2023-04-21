@@ -1,3 +1,4 @@
+import baja1 from '../images/gallery/baja1.JPG';
 import img1 from '../images/gallery/1.jpg';
 import img2 from '../images/gallery/2.jpg';
 import img3 from '../images/gallery/3.jpg';
