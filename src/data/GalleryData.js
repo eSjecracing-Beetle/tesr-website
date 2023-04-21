@@ -1,4 +1,9 @@
 import baja1 from '../images/gallery/baja1.JPG';
+import baja2 from '../images/gallery/baja2.JPG';
+import baja3 from '../images/gallery/baja3.JPG';
+import baja4 from '../images/gallery/baja4.JPG';
+import baja5 from '../images/gallery/baja5.jpg';
+import baja6 from '../images/gallery/baja6.jpg';
 import img1 from '../images/gallery/1.jpg';
 import img2 from '../images/gallery/2.jpg';
 import img3 from '../images/gallery/3.jpg';
@@ -36,6 +41,12 @@ import img33 from '../images/gallery/img33.jpg';
 
 
 export const gallery_exports = [
+	baja6,
+	baja5,
+	baja4,
+	baja3,
+	baja2,
+	baja1,
 	img25,
 	img28,
 	img26,
