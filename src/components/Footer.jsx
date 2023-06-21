@@ -79,14 +79,14 @@ const Footer = () => {
 					/>{' '}
 					by{' '} */}
 					Developed by{' '}
-					<a
+					{/*<a
 						href='https://gdscsjec.in'
 						target='_blank'
 						rel='noreferrer'
 						className='hover:text-greenColor px-2'
 					>
 						GDSC SJEC
-					</a>{' '}
+				</a>*/}{' '}
 					| ©️ Team eSJEC Racing
 				</div>
 			</div>
