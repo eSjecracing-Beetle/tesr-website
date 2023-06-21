@@ -19,14 +19,14 @@ const Footer = () => {
 								href='mailto:teamesjecracing@gmail.com'
 								className='text-gray-200 hover:text-greenColor'
 							>
-								teamesjecracing@gmail.com
+								teamesjecracing@sjec.ac.in
 							</a>
 							<div className='flex gap-4 pt-4'>
 								<a
-									href='tel:+919880039197'
+									href='tel:+919480066979'
 									className='text-gray-200 hover:text-greenColor'
 								>
-									+91-9880039197
+									+91-9480066979
 								</a>
 							</div>
 						</div>
