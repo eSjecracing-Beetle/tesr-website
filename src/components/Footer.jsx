@@ -78,16 +78,16 @@ const Footer = () => {
 						className='inline px-4 w-16'
 					/>{' '}
 					by{' '} */}
-					Developed by{' '}
-					{/*<a
+					{/*Developed by{' '}
+					<a
 						href='https://gdscsjec.in'
 						target='_blank'
 						rel='noreferrer'
 						className='hover:text-greenColor px-2'
 					>
 						GDSC SJEC
-				</a>*/}{' '}
-					| ©️ Team eSJEC Racing
+				</a>{' '}
+					| ©*/}Team eSJEC Racing
 				</div>
 			</div>
 		</div>
