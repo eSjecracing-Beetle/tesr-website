@@ -68,7 +68,7 @@ export default function ContactUs() {
 				/>
 				<input
 					className='contact-us-textbox'
-					required
+					//required
 					type='text'
 					placeholder='CV/Resume/Portfolio URL (optional)'
 					onChange={(e) => {
@@ -77,7 +77,7 @@ export default function ContactUs() {
 				/>
 				<input
 					className='contact-us-textbox'
-					required
+					//required
 					type='text'
 					placeholder='LinkedIn Profile URL (optional)'
 					onChange={(e) => {
