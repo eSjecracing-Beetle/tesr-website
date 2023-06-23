@@ -23,6 +23,7 @@ export default function ContactUs() {
 				setLoading(false);
 			})
 			.catch((err) => {
+				console.error(err); 
 				toast.error('Something went wrong. Please try again later');
 			});
 	};
