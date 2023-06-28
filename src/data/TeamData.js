@@ -714,18 +714,18 @@ let Beetle5 = {
     designation: 'CAPTAIN',
     specialStyle: 'm1-10',
   },
-  vicecaptain: {
-    name:'Ramyashree K T',
-    imagePath:'./images/team/beetle4.0/ramyashree.jpg',
-    designation:'VICE CAPTAIN',
-    specialStyle: 'm1-10',
-  },
-  manager: {
-      name:'Mohammed Sahal',
-      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
-      designation:'MANAGER',
-      specialStyle: 'm1-10',
-    },
+  // vicecaptain: {
+  //   name:'Ramyashree K T',
+  //   imagePath:'./images/team/beetle4.0/ramyashree.jpg',
+  //   designation:'VICE CAPTAIN',
+  //   specialStyle: 'm1-10',
+  // },
+  // manager: {
+  //     name:'Mohammed Sahal',
+  //     imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
+  //     designation:'MANAGER',
+  //     specialStyle: 'm1-10',
+  //   },
    
   // Rollcage: [
   //   {
