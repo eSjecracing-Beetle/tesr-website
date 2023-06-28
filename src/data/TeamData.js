@@ -518,9 +518,7 @@ let Beetle3 = {
       specialStyle: '',
     },
   ],
-};
-
-let Beetle4 = {
+};let Beetle4 = {
   captain: {
     name: 'Clifford Noronha',
     imagePath: './images/team/beetle2.0/scvf.png',
@@ -703,9 +701,171 @@ let Beetle4 = {
       designation:'',
       specialStyle: '',
     },
+   
   ],
 };
 
 
 
-export { Beetle1, Beetle2, Beetle3, Beetle4 };
+let Beetle5 = {
+  captain: {
+    name: 'Kiran Pinto',
+    imagePath: './images/team/beetle4.0/kiran.jpg',
+    designation: 'CAPTAIN',
+    specialStyle: 'm1-10',
+  },
+  vicecaptain: {
+    name:'Ramyashree K T',
+    imagePath:'./images/team/beetle4.0/ramyashree.jpg',
+    designation:'VICE CAPTAIN',
+    specialStyle: 'm1-10',
+  },
+  manager: {
+    
+      name:'Mohammed Sahal',
+      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
+      designation:'MANAGER',
+      specialStyle: 'm1-10',
+    },
+   
+  // Rollcage: [
+  //   {
+  //     name: '',
+  //     imagePath: '',
+  //     designation: '',
+  //     specialStyle: '',
+  //   },
+  // ],
+  // Steering: [],
+  // Suspension: [],
+  // Braking: [],
+  // Powertrain: [],
+  Rollcage: [
+    {
+      name:'Vaibhava K',
+      imagePath:'./images/team/beetle4.0/vaibhav.JPG',
+      designation:'HOD',
+      specialStyle: '',
+    },
+    {
+      name:'Rimesha Dsilva',
+      imagePath:'./images/team/beetle3.0/DSC_0897-01.jpeg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Kiran',
+      imagePath:'./images/team/beetle4.0/kiran.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+
+  ],
+  'Suspension & Steering':[
+ 
+   
+    {
+      name:'Muhammad Mukthar',
+      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-08-21 at 08.16.57.jpeg',
+      designation:'HOD',
+      specialStyle: '',
+    },
+    {
+      name:'Mohammed Sahal',
+      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Merlyn Gudinho',
+      imagePath:'./images/team/beetle3.0/merlyn.png',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Mohammed Humail',
+      imagePath:'./images/team/beetle4.0/Humail.png',
+      designation:'',
+      specialStyle: '',
+    },
+  
+  ],
+  Braking:[
+   
+    {
+      name:'Juvence Lobo ',
+      imagePath:'./images/team/beetle4.0/Juvence.JPG',
+      designation:'HOD',
+      specialStyle: '',
+    },
+  ],
+  'Powertrain & Data Acquisition':[
+    {
+      name:'Prathik',
+      imagePath:'./images/team/beetle4.0/Prathik.jpg',
+      designation:'HOD Mechanical Powertrain',
+      specialStyle: '',
+    },
+   
+    {
+      name:'Natasha Correia',
+      imagePath:'./images/team/beetle4.0/natasha.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Akshay Nair',
+      imagePath:'./images/team/beetle4.0/akshay Nair.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    
+    {
+      name:'Abishek V',
+      imagePath:'./images/team/beetle4.0/abinew.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Shashank Devadiga',
+      imagePath:'./images/team/beetle4.0/shashank.jpg',
+      designation:'HOD Electrical Powertrain',
+      specialStyle: '',
+    },
+    {
+      name:'Ramyashree K T',
+      imagePath:'./images/team/beetle4.0/ramyashree.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Dayal',
+      imagePath:'./images/team/beetle4.0/dayal.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Cedric Pius Fernandes',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Megha Vishnu Shanbhag',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Rakesh P L',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+  ],
+};
+
+
+
+
+export { Beetle1, Beetle2, Beetle3, Beetle4, Beetle5 };
