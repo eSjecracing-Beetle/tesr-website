@@ -87,7 +87,7 @@ const Footer = () => {
 					>
 						GDSC SJEC
 				</a>{' '}
-				| © Team eSJEC Racing | | Deveoped by GDSC
+				| © Team eSJEC Racing
 				</div>
 			</div>
 		</div>
