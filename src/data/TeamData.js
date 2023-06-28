@@ -834,7 +834,7 @@ let Beetle5 = {
     {
       name:'Ramyashree K T',
       imagePath:'./images/team/beetle4.0/ramyashree.jpg',
-      designation:'',
+      designation:'Vice Captain',
       specialStyle: '',
     },
     {
