@@ -721,7 +721,6 @@ let Beetle5 = {
     specialStyle: 'm1-10',
   },
   manager: {
-    
       name:'Mohammed Sahal',
       imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
       designation:'MANAGER',
