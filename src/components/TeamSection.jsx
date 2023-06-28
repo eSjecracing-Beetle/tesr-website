@@ -86,7 +86,7 @@ const TeamSection = ({ teamName, teamMembers }) => {
 							)
 					);
 					return (
-						domain !== 'manager' && (
+						domain !== 'm anager' && (
 							<div
 								className='grid grid-cols-3 sm:grid-cols-3 md:grid-cols-3 mt-20'
 								key={domain_id}
