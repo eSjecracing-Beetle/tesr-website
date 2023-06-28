@@ -861,13 +861,7 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
-    {
-      name:'Rakesh P L',
-      imagePath:'',
-      designation:'',
-      specialStyle: '',
-    },
-
+    
   ],
 };
 
