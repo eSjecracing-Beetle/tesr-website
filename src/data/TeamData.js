@@ -793,7 +793,7 @@ let Beetle5 = {
    
     {
       name:'Juvence Lobo ',
-      imagePath:'./images/team/beetle5.0/Juvence (1).jpg',
+      imagePath:'./images/team/beetle5.0/Juvence (2).jpg',
       designation:'HOD',
       specialStyle: '',
     },
