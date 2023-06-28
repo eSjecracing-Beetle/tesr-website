@@ -26,7 +26,7 @@ const Footer = () => {
 									href='tel:+919480066979'
 									className='text-gray-200 hover:text-greenColor'
 								>
-									+91-9480066979 | Deveoped by GDSC
+									+91-9480066979 
 								</a>
 							</div>
 						</div>
@@ -78,7 +78,7 @@ const Footer = () => {
 						className='inline px-4 w-16'
 					/>{' '}
 					by{' '} */}
-					{/*Developed by{' '}
+					Developed by{' '}
 					<a
 						href='https://gdscsjec.in'
 						target='_blank'
@@ -87,7 +87,7 @@ const Footer = () => {
 					>
 						GDSC SJEC
 				</a>{' '}
-				| ©*/}Team eSJEC Racing
+				| © Team eSJEC Racing | | Deveoped by GDSC
 				</div>
 			</div>
 		</div>
