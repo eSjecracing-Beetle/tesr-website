@@ -1,5 +1,5 @@
 import TeamSection from '../components/TeamSection';
-import { Beetle1, Beetle2, Beetle3, Beetle4 } from '../data/TeamData';
+import { Beetle1, Beetle2, Beetle3, Beetle4, Beetle5 } from '../data/TeamData';
 
 const Teams = () => {
 	return (
