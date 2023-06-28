@@ -10,16 +10,7 @@ const TeamSection = ({ teamName, teamMembers }) => {
 					imagePath={teamMembers['captain'].imagePath}
 					designation={teamMembers['captain'].designation}
 				/>
-				<TeamMember
-					name={teamMembers['vice captain'].name}
-					imagePath={teamMembers['vice captain'].imagePath}
-					designation={teamMembers['vice captain'].designation}
-				/>
-				<TeamMember
-					name={teamMembers['manager'].name}
-					imagePath={teamMembers['manager'].imagePath}
-					designation={teamMembers['manager'].designation}
-				/>
+				
 			</div>
 
 			{
