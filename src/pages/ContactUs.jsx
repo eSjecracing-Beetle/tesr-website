@@ -17,7 +17,7 @@ export default function ContactUs() {
 	const uploadMe = async(data) => {
 		setLoading(true);
 		await axios
-			.post(`${process.env.REACT_APP_SHEET_API}`, data)
+			.post(`https://sheet.best/api/sheets/b06f7739-6c78-4501-b127-032fe0bd499e}`, this.state)
 			.then(() => {
 				toast.success('Your application has been submitted successfully!'); 
 				setLoading(false);
