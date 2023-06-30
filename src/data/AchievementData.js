@@ -15,7 +15,7 @@ export const achievements = [
 			'CAE AIR 7',
 			'Overall Ranking AIR 10',
 		],
-		sides:'right',
+		sides:'left',
 	},
 	{
 		title:'ATVC - Pune',
