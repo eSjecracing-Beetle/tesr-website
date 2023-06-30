@@ -5,6 +5,19 @@ import indore from '../images/indore.JPG';
 export const achievements = [
 	{
 		date:2023,
+		title: 'SAE BAJA - CHANDIGARH',
+		image: baja5,
+		description: [
+			'Design AIR 8',
+			'Virtual Dynamics AIR 9',
+			'Endurance AIR 9',
+			'Acceleration AIR 4',
+			'CAE AIR 7',
+			'Overall Ranking AIR 10',
+		],
+		sides:'right',
+	},
+	{
 		title:'ATVC - Pune',
 		image: atvc,
 		description:[
@@ -15,6 +28,7 @@ export const achievements = [
 		],
 		sides:'left',
 	},
+	
 	
 	{
 		date: 2022,
