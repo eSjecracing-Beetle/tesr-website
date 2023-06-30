@@ -13,7 +13,7 @@ export const achievements = [
 			'Virtual Dynamics AIR 9',
 			'Endurance AIR 9',
 			'Acceleration AIR 4',
-			'CAE AIR 7',
+			'CAE event AIR 7',
 			'Overall Ranking AIR 10',
 		],
 		sides:'left',
