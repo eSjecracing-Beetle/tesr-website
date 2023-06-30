@@ -5,7 +5,7 @@ import indore from '../images/indore.JPG';
 export const achievements = [
 	{
 		date:2023,
-		title: 'SAE BAJA - CHANDIGARH',
+		title: 'SAE BAJA - Chandigarh',
 		image: baja5,
 		description: [
 			'Design AIR 8',
