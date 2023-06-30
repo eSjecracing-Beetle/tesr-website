@@ -697,7 +697,7 @@ let Beetle3 = {
     },
     {
       name:'Dayal',
-      imagePath:'./images/team/beetle4.0/dayal.jpg',
+      imagePath:'./images/team/beetle5.0/dayal.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -839,7 +839,7 @@ let Beetle5 = {
     },
     {
       name:'Dayal',
-      imagePath:'./images/team/beetle4.0/dayal.jpg',
+      imagePath:'./images/team/beetle5.0/dayal.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -851,7 +851,7 @@ let Beetle5 = {
     },
     {
       name:'Megha Vishnu Shanbhag',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/mega.jpg',
       designation:'',
       specialStyle: '',
     },
