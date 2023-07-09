@@ -797,6 +797,12 @@ let Beetle5 = {
       designation:'HOD',
       specialStyle: '',
     },
+    {
+      name:'Godric',
+      imagePath:'',
+      designation:'',
+      specialStyle:'',
+    },
   ],
   'Powertrain & Data Acquisition':[
     {
