@@ -813,7 +813,7 @@ let Beetle5 = {
     },
    
     {
-      name:'Natasha Correia',
+      name:'Natasha E Correia',
       imagePath:'./images/team/beetle4.0/natasha.jpg',
       designation:'',
       specialStyle: '',
