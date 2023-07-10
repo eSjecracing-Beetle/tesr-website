@@ -23,10 +23,10 @@ const Footer = () => {
 							</a>
 							<div className='flex gap-4 pt-4'>
 								<a
-									href='tel:+919480066979'
+									href='tel:+919480066978'
 									className='text-gray-200 hover:text-greenColor'
 								>
-									+91-9486066979
+									+91-9480066978
 								</a>
 							</div>
 						</div>
