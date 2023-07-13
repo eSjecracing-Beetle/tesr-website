@@ -71,13 +71,13 @@ const Footer = () => {
 				</div>
 
 				<div className='flex items-center justify-center md:text-2xl'  style={{ fontFamily: 'Audiowide'}}> 
-					{/* Made with{' '}
+					/* Made with{' '}
 					<img
 						src={FooterHeartImage}
 						alt='Footer Heart'
 						className='inline px-4 w-16'
 					/>{' '}
-					by{' '} */}
+					by{' '} */
 					Developed by{' '}
 					<a
 						href='https://gdscsjec.in'
