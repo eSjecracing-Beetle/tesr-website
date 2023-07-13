@@ -26,7 +26,7 @@ const Footer = () => {
 									href='tel:+919480066978'
 									className='text-gray-200 hover:text-greenColor'
 								>
-									+91-9480066979
+									+91-9480066978
 								</a>
 							</div>
 						</div>
@@ -71,13 +71,13 @@ const Footer = () => {
 				</div>
 
 				<div className='flex items-center justify-center md:text-2xl'  style={{ fontFamily: 'Audiowide'}}> 
-					/* Made with{' '}
+					{/* Made with{' '}
 					<img
 						src={FooterHeartImage}
 						alt='Footer Heart'
 						className='inline px-4 w-16'
 					/>{' '}
-					by{' '} */
+                           {' '} */}
 					Developed by{' '}
 					<a
 						href='https://gdscsjec.in'
