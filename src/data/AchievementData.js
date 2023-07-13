@@ -2,7 +2,7 @@ import Achievement2Image from '../images/achievements-2.jpg';
 import atvc from '../images/atvc.jpg';
 import goa from '../images/goa.jpg';
 import indore from '../images/indore.JPG';
-import baja5 from '../images/baja5.jpg';
+//import baja5 from '../images/baja5.jpg';
 export const achievements = [
 	{
 		date:2023,
