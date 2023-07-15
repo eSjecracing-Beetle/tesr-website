@@ -787,6 +787,12 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Briden Springfield',
+      imagePath:'./images/team/beetle5.0/Briden Springfield.jpg',
+      designation:'',
+      specialStyle: '',
+    },
   
   ],
   Braking:[
