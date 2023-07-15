@@ -798,10 +798,10 @@ let Beetle5 = {
       specialStyle: '',
     },
     {
-      name:'Godric',
-      imagePath:'',
+      name:'Godric Roy.',
+      imagePath:'./images/team/beetle5.0/Godric Roy..jpg',
       designation:'',
-      specialStyle:'',
+      specialStyle: '',
     },
   ],
   'Powertrain & Data Acquisition':[
@@ -868,11 +868,11 @@ let Beetle5 = {
       specialStyle: '',
     },
     {
-      name:'Godric Roy.',
-      imagePath:'./images/team/beetle5.0/Godric Roy..jpg',
+      name:'Lawrence Mithan Mathias',
+      imagePath:'./images/team/beetle5.0/Lawrence Mithan Mathias.jpg',
       designation:'',
       specialStyle: '',
-    }
+    },
     
   ],
 };
