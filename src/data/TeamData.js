@@ -766,7 +766,7 @@ let Beetle5 = {
     {
       name:'Muhammad Mukthar',
       imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-08-21 at 08.16.57.jpeg',
-      designation:'HOD',
+      designation:'HOD Suspension',
       specialStyle: '',
     },
     {
@@ -806,7 +806,7 @@ let Beetle5 = {
     {
       name:'Juvence Lobo ',
       imagePath:'./images/team/beetle5.0/Juvence (2).jpg',
-      designation:'HOD',
+      designation:'HOD Braking',
       specialStyle: '',
     },
     {
