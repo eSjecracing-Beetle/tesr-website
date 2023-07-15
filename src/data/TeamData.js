@@ -824,7 +824,6 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
-    
     {
       name:'Abishek V',
       imagePath:'./images/team/beetle4.0/abinew.jpg',
