@@ -793,6 +793,12 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Briden Springfield',
+      imagePath:'./images/team/beetle5.0/Briden Springfield.jpg',
+      designation:'',
+      specialStyle: '',
+    },
   
   ],
   Braking:[
@@ -813,7 +819,7 @@ let Beetle5 = {
   'Powertrain & Data Acquisition':[
     {
       name:'Prathik',
-      imagePath:'./images/team/beetle4.0/Prathik.jpg',
+      imagePath:'./images/team/beetle5.0/Prathik2.jpg',
       designation:'HOD Mechanical Powertrain',
       specialStyle: '',
     },
