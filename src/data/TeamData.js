@@ -855,13 +855,13 @@ let Beetle5 = {
       specialStyle: '',
     },
     {
-      name:'Cedric Pius Fernandes',
+      name:'Cedric Fernandes',
       imagePath:'./images/team/beetle5.0/IMG_20230630_173347.jpg',
       designation:'',
       specialStyle: '',
     },
     {
-      name:'Megha Vishnu Shanbhag',
+      name:'Megha Shanbhag',
       imagePath:'./images/team/beetle5.0/mega.jpg',
       designation:'',
       specialStyle: '',
