@@ -9,7 +9,7 @@ export default function ContactUs() {
 		email: '',
 		cv: '',
 		linkedin: '',
-		why: ''
+		why: '',
 	});
 
 	const [loading, setLoading] = React.useState(false);
