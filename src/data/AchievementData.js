@@ -2,12 +2,12 @@ import Achievement2Image from '../images/achievements-2.jpg';
 import atvc from '../images/atvc.jpg';
 import goa from '../images/goa.jpg';
 import indore from '../images/indore.JPG';
-//import baja5 from'../images/gallery/baja5.jpg';
+import baja5 from'../images/gallery/baja5.jpg';
 export const achievements = [
 	{
 		date:2023,
 		title: 'SAE BAJA - Chandigarh',
-		//image: baja5,
+		image: baja5,
 		description: [
 			'Design AIR 8',
 			'Virtual Dynamics AIR 9',
