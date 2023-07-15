@@ -867,6 +867,12 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Godric Roy.',
+      imagePath:'./images/team/beetle5.0/Godric Roy..jpg',
+      designation:'',
+      specialStyle: '',
+    }
     
   ],
 };
