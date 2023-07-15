@@ -540,7 +540,7 @@ let Beetle3 = {
   Rollcage: [
     {
       name:'Russel Dsouza',
-      imagePath: './images/team/beetle5.0/_DSC0393~2-02.jpeg',
+      imagePath: './images/team/beetle4.0/vc 4.0.jpeg',
       designation: 'VICE CAPTAIN, HOD',
       specialStyle: '',
 
