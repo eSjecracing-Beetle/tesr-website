@@ -856,7 +856,7 @@ let Beetle5 = {
     },
     {
       name:'Cedric Pius Fernandes',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/IMG_20230630_173347.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -868,7 +868,7 @@ let Beetle5 = {
     },
     {
       name:'Rakesh P L',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/IMG_4709.JPG',
       designation:'',
       specialStyle: '',
     },
