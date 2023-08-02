@@ -874,7 +874,7 @@ let Beetle5 = {
     },
     {
       name:'Megha Shanbhag',
-      imagePath:'C:\Users\christina\Pictures\megha.jpg',
+      imagePath:'./images/team/beetle5.0/megha.jpg',
       designation:'',
       specialStyle: '',
     },
