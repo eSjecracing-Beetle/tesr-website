@@ -758,6 +758,12 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Selvin Fernandes',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
 
   ],
   'Suspension & Steering':[
@@ -795,13 +801,13 @@ let Beetle5 = {
     },
     {
       name:'Anupam Pradeep',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/anupam.jpg',
       designation:'',
       specialStyle: '',
     },
     {
       name:'Christina Fernandes',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/christina.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -856,7 +862,7 @@ let Beetle5 = {
     },
     {
       name:'Ramyashree K T',
-      imagePath:'./images/team/beetle5.0/Ramyashree .jpg',
+      imagePath:'./images/team/beetle5.0/Ramyashree 11.jpg',
       designation:'Vice Captain',
       specialStyle: '',
     },
@@ -880,7 +886,7 @@ let Beetle5 = {
     },
     {
       name:'Rakesh P L',
-      imagePath:'./images/team/beetle5.0/IMG_4709.JPG',
+      imagePath:'./images/team/beetle5.0/Rakesh.JPG',
       designation:'',
       specialStyle: '',
     },
@@ -890,7 +896,12 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
-    
+    {
+      name:'Zaki Hanif',
+      imagePath:'./images/team/beetle5.0/zaki1.jpg',
+      designation:'',
+      specialStyle: '',
+    }
   ],
 };
 
