@@ -822,7 +822,7 @@ let Beetle5 = {
     },
     {
       name:'Godric Roy.',
-      imagePath:'./images/team/beetle5.0/Godric Roy..jpg',
+      imagePath:'./images/team/beetle5.0/godric1.jpg',
       designation:'',
       specialStyle: '',
     },
