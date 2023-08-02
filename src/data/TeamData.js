@@ -793,6 +793,18 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Anupam Pradeep',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Christina Fernandes',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
   
   ],
   Braking:[
@@ -862,7 +874,7 @@ let Beetle5 = {
     },
     {
       name:'Megha Shanbhag',
-      imagePath:'./images/team/beetle5.0/mega.jpg',
+      imagePath:'C:\Users\christina\Pictures\megha.jpg',
       designation:'',
       specialStyle: '',
     },
