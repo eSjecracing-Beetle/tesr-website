@@ -706,7 +706,6 @@ let Beetle3 = {
 };
 
 
-
 let Beetle5 = {
   captain: {
     name: 'Kiran Pinto',
