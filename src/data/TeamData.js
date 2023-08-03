@@ -873,7 +873,7 @@ let Beetle5 = {
     },
     {
       name:'Dayal',
-      imagePath:'./images/team/beetle5.0/dayal.jpg',
+      imagePath:'./images/team/beetle5.0/dayal.png',
       designation:'',
       specialStyle: '',
     },
