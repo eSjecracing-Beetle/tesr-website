@@ -759,7 +759,13 @@ let Beetle5 = {
     },
     {
       name:'Selvin Fernandes',
-      imagePath:'',
+      imagePath:'./images/team/beetle5.0/selvin.jpg',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Vishak VK',
+      imagePath:'./images/team/beetle5.0/vaishak.JPG',
       designation:'',
       specialStyle: '',
     },
