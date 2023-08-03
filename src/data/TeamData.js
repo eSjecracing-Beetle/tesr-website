@@ -765,7 +765,7 @@ let Beetle5 = {
     },
     {
       name:'Vishak VK',
-      imagePath:'./images/team/beetle5.0/vaishak.JPG',
+      imagePath:'./images/team/beetle5.0/vishak11.JPG',
       designation:'',
       specialStyle: '',
     },
