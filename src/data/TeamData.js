@@ -709,7 +709,7 @@ let Beetle3 = {
 let Beetle5 = {
   captain: {
     name: 'Kiran Pinto',
-    imagePath: './images/team/beetle4.0/kiran.jpg',
+    imagePath: './images/team/beetle5.0/SAVE_20230331_225515~2.jpg',
     designation: 'CAPTAIN',
     specialStyle: 'm1-10',
   },
@@ -741,7 +741,7 @@ let Beetle5 = {
   Rollcage: [
     {
       name:'Vaibhava K',
-      imagePath:'./images/team/beetle4.0/vaibhav.JPG',
+      imagePath:'./images/team/beetle5.0/Photo_1686213253219.jpg',
       designation:'HOD',
       specialStyle: '',
     },
@@ -753,7 +753,7 @@ let Beetle5 = {
     },
     {
       name:'Kiran',
-      imagePath:'./images/team/beetle4.0/kiran.jpg',
+      imagePath:'./images/team/beetle5.0/SAVE_20230331_225515~2.jpg',
       designation:'',
       specialStyle: '',
     },
