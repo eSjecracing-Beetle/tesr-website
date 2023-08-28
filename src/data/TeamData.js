@@ -742,7 +742,7 @@ let Beetle5 = {
     {
       name:'Vaibhava K',
       imagePath:'./images/team/beetle5.0/vaibhav.png',
-      designation:'HOD',
+      designation:'HOD ',
       specialStyle: '',
     },
     {
