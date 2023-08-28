@@ -741,7 +741,7 @@ let Beetle5 = {
   Rollcage: [
     {
       name:'Vaibhava K',
-      imagePath:'./images/team/beetle5.0/Photo_1686213253219.png',
+      imagePath:'./images/team/beetle5.0/vaibhav.png',
       designation:'HOD',
       specialStyle: '',
     },
