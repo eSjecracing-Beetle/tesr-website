@@ -19,7 +19,7 @@ const Footer = () => {
 								href='mailto:teamesjecracing@gmail.com'
 								className='text-gray-200 hover:text-greenColor'
 							>
-								teamesjecracing@sjec.a.in
+								teamesjecracing@sjec.ac.in
 							</a>
 							<div className='flex gap-4 pt-4'>
 								<a
