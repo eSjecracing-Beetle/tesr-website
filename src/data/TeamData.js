@@ -6,7 +6,7 @@ let Beetle1 = {
   },
   Rollcage: [
     {
-      name: 'Yvn Fernandes',
+      name: 'Yvon Fernandes',
       imagePath:
         './images/team/beetle1.0/WhatsApp Image 2021-08-21 at 14.23.56.jpeg',
       designation: 'HOD',
