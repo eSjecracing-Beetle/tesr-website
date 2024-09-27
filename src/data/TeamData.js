@@ -763,13 +763,6 @@ let Beetle5 = {
       designation:'',
       specialStyle: '',
     },
-    {
-      name:'Vishak VK',
-      imagePath:'./images/team/beetle5.0/vishak11.JPG',
-      designation:'',
-      specialStyle: '',
-    },
-
   ],
   'Suspension & Steering':[
  
@@ -826,12 +819,6 @@ let Beetle5 = {
       designation:'HOD Braking',
       specialStyle: '',
     },
-    {
-      name:'Godric Roy.',
-      imagePath:'./images/team/beetle5.0/godric1.jpg',
-      designation:'',
-      specialStyle: '',
-    },
   ],
   'Powertrain & Data Acquisition':[
     {
@@ -850,12 +837,6 @@ let Beetle5 = {
     {
       name:'Akshay Nair',
       imagePath:'./images/team/beetle4.0/akshay Nair.jpg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Abishek V',
-      imagePath:'./images/team/beetle4.0/abinew.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -880,12 +861,6 @@ let Beetle5 = {
     {
       name:'Cedric Fernandes',
       imagePath:'./images/team/beetle5.0/IMG_20230630_173347.jpg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Megha Shanbhag',
-      imagePath:'./images/team/beetle5.0/megha.jpg',
       designation:'',
       specialStyle: '',
     },
