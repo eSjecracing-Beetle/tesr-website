@@ -916,52 +916,22 @@ let Beetle5 = {
 
 let Beetle6 = {
   captain: {
-    name: 'Kiran Pinto',
-    imagePath: './images/team/beetle5.0/SAVE_20230331_225515~2.jpg',
+    name: 'Ramyashree K T',
+    imagePath: './images/team/beetle4.0/ramyashree.jpg',
     designation: 'CAPTAIN',
     specialStyle: 'm1-10',
   },
-  // vicecaptain: {
-  //   name:'Ramyashree K T',
-  //   imagePath:'./images/team/beetle4.0/ramyashree.jpg',
-  //   designation:'VICE CAPTAIN',
-  //   specialStyle: 'm1-10',
-  // },
-  // manager: {
-  //     name:'Mohammed Sahal',
-  //     imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
-  //     designation:'MANAGER',
-  //     specialStyle: 'm1-10',
-  //   },
-   
-  // Rollcage: [
-  //   {
-  //     name: '',
-  //     imagePath: '',
-  //     designation: '',
-  //     specialStyle: '',
-  //   },
-  // ],
-  // Steering: [],
-  // Suspension: [],
-  // Braking: [],
-  // Powertrain: [],
+ 
   Rollcage: [
     {
-      name:'Vaibhava K',
-      imagePath:'./images/team/beetle5.0/vaibhav.png',
+      name:'Kiran Pinto',
+      imagePath:'../images/team/beetle5.0/SAVE_20230331_225515~2.jpg',
       designation:'HOD ',
       specialStyle: '',
     },
     {
-      name:'Rimesha Dsilva',
-      imagePath:'./images/team/beetle3.0/DSC_0897-01.jpeg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Kiran',
-      imagePath:'./images/team/beetle5.0/SAVE_20230331_225515~2.jpg',
+      name:'Vaibhava K',
+      imagePath:'./images/team/beetle5.0/vaibhav.png',
       designation:'',
       specialStyle: '',
     },
@@ -972,8 +942,8 @@ let Beetle6 = {
       specialStyle: '',
     },
     {
-      name:'Vishak VK',
-      imagePath:'./images/team/beetle5.0/vishak11.JPG',
+      name:'Lakshith',
+      imagePath:'',
       designation:'',
       specialStyle: '',
     },
@@ -983,27 +953,9 @@ let Beetle6 = {
  
    
     {
-      name:'Muhammad Mukthar',
-      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-08-21 at 08.16.57.jpeg',
+      name:'Anupam Pradeep',
+      imagePath:'./images/team/beetle5.0/anupam.jpg',
       designation:'HOD Suspension',
-      specialStyle: '',
-    },
-    {
-      name:'Mohammed Sahal',
-      imagePath:'./images/team/beetle3.0/WhatsApp Image 2021-09-15 at 7.18.18 PM.jpeg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Merlyn Gudinho',
-      imagePath:'./images/team/beetle3.0/merlyn.png',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Mohammed Humail',
-      imagePath:'./images/team/beetle4.0/Humail.png',
-      designation:'',
       specialStyle: '',
     },
     {
@@ -1024,6 +976,18 @@ let Beetle6 = {
       designation:'',
       specialStyle: '',
     },
+    {
+      name:'Pranav R',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Prateek Moras',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
   
   ],
   Braking:[
@@ -1035,36 +999,17 @@ let Beetle6 = {
       specialStyle: '',
     },
     {
-      name:'Godric Roy.',
-      imagePath:'./images/team/beetle5.0/godric1.jpg',
+      name:'Denzil Pinto',
+      imagePath:'',
       designation:'',
       specialStyle: '',
     },
   ],
   'Powertrain & Data Acquisition':[
     {
-      name:'Prathik',
-      imagePath:'./images/team/beetle5.0/Prathik2.jpg',
-      designation:'HOD Mechanical Powertrain',
-      specialStyle: '',
-    },
-   
-    {
-      name:'Natasha Correia',
-      imagePath:'./images/team/beetle4.0/natasha.jpg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
       name:'Akshay Nair',
       imagePath:'./images/team/beetle4.0/akshay Nair.jpg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Abishek V',
-      imagePath:'./images/team/beetle4.0/abinew.jpg',
-      designation:'',
+      designation:'HOD Mechanical Powertrain',
       specialStyle: '',
     },
     {
@@ -1074,26 +1019,27 @@ let Beetle6 = {
       specialStyle: '',
     },
     {
+      name:'Cedric Fernandes',
+      imagePath:'./images/team/beetle5.0/IMG_20230630_173347.jpg',
+      designation:'HOD DAQ',
+      specialStyle: '',
+    },
+    {
       name:'Ramyashree K T',
       imagePath:'./images/team/beetle5.0/Ramyashree 11.jpg',
-      designation:'Vice Captain',
+      designation:'Captain',
       specialStyle: '',
     },
     {
       name:'Dayal',
       imagePath:'./images/team/beetle5.0/dayal.png',
-      designation:'',
+      designation:'Vice Captain',
       specialStyle: '',
     },
+    
     {
-      name:'Cedric Fernandes',
-      imagePath:'./images/team/beetle5.0/IMG_20230630_173347.jpg',
-      designation:'',
-      specialStyle: '',
-    },
-    {
-      name:'Megha Shanbhag',
-      imagePath:'./images/team/beetle5.0/megha.jpg',
+      name:'Prathik',
+      imagePath:'./images/team/beetle5.0/Prathik2.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -1114,7 +1060,27 @@ let Beetle6 = {
       imagePath:'./images/team/beetle5.0/zaki1.jpg',
       designation:'',
       specialStyle: '',
-    }
+    },
+    {
+      name:'Tanisha Shetty',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Yashas',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+    {
+      name:'Nawal',
+      imagePath:'',
+      designation:'',
+      specialStyle: '',
+    },
+
+
   ],
 };
 
