@@ -953,7 +953,7 @@ let Beetle6 = {
     },
     {
       name:'Pratheek Moras',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/pratheek.jpg',
       designation:'',
       specialStyle: '',
     },
