@@ -892,7 +892,7 @@ let Beetle5 = {
 let Beetle6 = {
   captain: {
     name: 'Ramyashree K T',
-    imagePath: '',
+    imagePath:'./images/team/beetle5.0/Ramyashree 11.jpg',
     designation: 'CAPTAIN',
     specialStyle: 'm1-10',
   },
