@@ -918,7 +918,7 @@ let Beetle6 = {
     },
     {
       name:'Lakshith',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/lakshith.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -935,7 +935,7 @@ let Beetle6 = {
     },
     {
       name:'Briden Springfield',
-      imagePath:'./images/team/beetle5.0/Briden Springfield.jpg',
+      imagePath:'./images/team/beetle6.0/Briden.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -947,7 +947,7 @@ let Beetle6 = {
     },
     {
       name:'Pranav R',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/pranav.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -1044,19 +1044,19 @@ let Beetle6 = {
     },
     {
       name:'Tanisha Shetty',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/taneesha.jpg',
       designation:'',
       specialStyle: '',
     },
     {
       name:'Yashas',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/yashas2.jpg',
       designation:'',
       specialStyle: '',
     },
     {
       name:'Nawal',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/nawal.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -1068,7 +1068,7 @@ let Beetle6 = {
     },
     {
       name:'Rakshith',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/rakshith.jpg',
       designation:'',
       specialStyle: '',
     },
