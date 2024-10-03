@@ -969,7 +969,7 @@ let Beetle6 = {
     },
     {
       name:'Denzil Pinto',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/denzil.jpg',
       designation:'',
       specialStyle: '',
     },
@@ -1044,7 +1044,7 @@ let Beetle6 = {
     },
     {
       name:'Tanisha Shetty',
-      imagePath:'./images/team/beetle6.0/taneesha.jpg',
+      imagePath:'./images/team/beetle6.0/tanisha.JPG',
       designation:'',
       specialStyle: '',
     },
@@ -1062,7 +1062,7 @@ let Beetle6 = {
     },
     {
       name:'Nidhish',
-      imagePath:'./images/team/beetle6.0/nidhish.jpg',
+      imagePath:'./images/team/beetle6.0/nidhish1.jpg',
       designation:'',
       specialStyle: '',
     },
