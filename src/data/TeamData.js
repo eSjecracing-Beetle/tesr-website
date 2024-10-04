@@ -1038,7 +1038,7 @@ let Beetle6 = {
     },
     {
       name:'Christopher',
-      imagePath:'',
+      imagePath:'./images/team/beetle6.0/christopher.jpg',
       designation:'',
       specialStyle: '',
     },
