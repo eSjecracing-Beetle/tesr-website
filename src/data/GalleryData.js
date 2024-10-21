@@ -40,6 +40,7 @@ import img32 from '../images/gallery/img32.jpg';
 import img33 from '../images/gallery/img33.jpg';
 
 
+
 export const gallery_exports = [
 	baja6,
 	baja5,
