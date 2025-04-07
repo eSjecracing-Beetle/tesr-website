@@ -3,8 +3,20 @@ import atvc from '../images/atvc.jpg';
 import goa from '../images/goa.jpg';
 import indore from '../images/indore.JPG';
 import baja5 from'../images/gallery/baja5.jpg';
+import baja6 from '../images/gallery/baja6.jpg';
 export const achievements = [
 	{
+		date:2024,
+		title: 'SAE BAJA - Hyderabad',
+		image: baja6,
+		description: [
+			'Endurance AIR 9',
+			'Manuverability AIR 13',
+			'Suspension and Traction AIR 12',
+			'CAE Event AIR 13',
+		],
+		sides:'right',
+	},{
 		date:2023,
 		title: 'SAE BAJA - Chandigarh',
 		image: baja5,
