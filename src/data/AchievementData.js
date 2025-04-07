@@ -12,7 +12,7 @@ export const achievements = [
 		description: [
 			'Endurance AIR 9',
 			'Manuverability AIR 13',
-			'Suspension and Traction AIR 12',
+			'Suspension & Traction AIR 12',
 			'CAE Event AIR 13',
 		],
 		sides:'right',
