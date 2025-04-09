@@ -10,6 +10,7 @@ import baja25img1 from '../images/gallery/baja25img1.jpg';
 import baja25img2 from '../images/gallery/baja25img2.jpg';
 import baja25img3 from '../images/gallery/baja25img3.jpg';
 import baja25img4 from '../images/gallery/baja25img4.jpg';
+import baja25img7 from '../images/gallery/baja25img7.jpg';
 import img1 from '../images/gallery/1.jpg';
 import img2 from '../images/gallery/2.jpg';
 import img3 from '../images/gallery/3.jpg';
@@ -52,6 +53,7 @@ export const gallery_exports = [
 	baja25img2,
 	baja25img3,
 	baja25img4,
+	baja25img7,
 	baja24img1,
 	baja24img2,
 	baja6,
